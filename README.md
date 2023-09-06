@@ -20,3 +20,28 @@ npm を使用しています
 npm
 npm run dev // 開発用サーバー起動
 ```
+
+---
+
+## Introduction
+
+This is a counter application built with React,  
+utilizing Redux for state management.
+
+## Technologies Used
+
+Frontend
+
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Development Steps
+
+We are using npm for development.
+
+```bash
+npm install
+npm run dev // Start the development server
+```
